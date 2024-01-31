@@ -12,6 +12,7 @@ Movie Industry Data (https://www.kaggle.com/datasets/danielgrijalvas/movies)
 ### Tools
 
 - Python(Pandas, Seaborn, Matplotlib, Numpy)
+- Jupyter
 
 ```python
 import pandas as pd
