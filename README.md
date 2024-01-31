@@ -68,7 +68,7 @@ plt.ylabel('Movie Features')
 
 plt.show()
 ```
-<img width="805" alt="Screenshot 2024-01-30 at 10 23 13 PM" src="https://github.com/MingyuTheAnalyst/Movie-Correlation-Project/assets/88122148/2425b438-4356-471c-83a0-454db806f764">
+<img width="600" alt="Screenshot 2024-01-30 at 10 23 13 PM" src="https://github.com/MingyuTheAnalyst/Movie-Correlation-Project/assets/88122148/2425b438-4356-471c-83a0-454db806f764">
 
 
 
