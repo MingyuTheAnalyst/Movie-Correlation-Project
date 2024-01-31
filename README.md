@@ -2,8 +2,7 @@
 
 
 ### Project Overview
-This project aims to identify and understand the factors of success in the movie industry through data analysis. By analyzing the correlations between various variables, it seeks to provide useful insights for movie production and marketing strategies.
-
+This project aims to identify and understand the factors of success in the movie industry through data analysis. By analyzing the correlations between various variables, it seeks to provide useful insights for what variables effect the gross revenues from movies.
 
 ### Data Sources
 
