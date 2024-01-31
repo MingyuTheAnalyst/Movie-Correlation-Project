@@ -34,6 +34,13 @@ Movie Industry Data (https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
 - Scatter Plot Visualization: A scatter plot is created to visualize the relationship between the film's budget and its gross earnings.
 
+### Data Visualization
+
+<img width="600" alt="Screenshot 2024-01-30 at 10 21 19 PM" src="https://github.com/MingyuTheAnalyst/Movie-Correlation-Project/assets/88122148/8254ff84-b8be-463e-ab14-fc5d1493cd38">
+<img width="600" alt="Screenshot 2024-01-30 at 10 21 28 PM" src="https://github.com/MingyuTheAnalyst/Movie-Correlation-Project/assets/88122148/64265896-dcb8-42a0-b0d9-624ab0f3bd7a">
+
+
+
 ### Results/Findings
 
 - The analysis showed that there's a strong link between how much a movie earns (its Gross) and how much money was spent to make it (its Budget). In simple terms, movies with bigger budgets often make more money. Also, the number of Votes a movie gets, which shows how much people are interested in it, is another key factor that affects how much money a movie makes.
